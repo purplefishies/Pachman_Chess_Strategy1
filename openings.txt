@@ -1,0 +1,37 @@
+Index of Openings
+
+1 P—K4 P—K4
+
+Bishop’s Opening 3, 35
+Evans Gambit 4, 33
+Gioco Piano 99, 143
+Petrov 143
+Ruy Lopez 19, 31, 40, 41, 43, 88, 92, 95, 105,115, 125,131, 159, 163
+Scotch 5, 34, 44
+2 Knights 2, 140
+3 Knights 91
+4 Knights 32, 123
+l P+K4 Other
+Alekhine’s 158
+Caro Kann 99, 100, I20, 151, 161
+French 72, 80, 146, 155
+Sicilian 4, 20, 24, 32, 51, 79, 82, 85, 96, 108
+
+1 P-Q4 P-Q4
+Queen’s Gambit Accepted 68
+Queen’s Gambit Declined 6, 22, 27, 30, 59, 63, 76, 78, 84, 94, 112, 118, 119, 122, 135, 141, 143, 144, 145
+
+1 P—Q4 Other
+Benoni 61
+Bogoljubow 53
+Catalan 69, 109, 130
+Dutch 58, 127
+Grﬁnfeld 45, 54, 100
+King’s Indian 30, 61, 107
+Nimzo—Indian 16, 20, 29, 35, 47, 65, 66, 113, 122, 147, 149, 157
+Old Indian 71
+Queen’s Indian 111, 128, 136
+
+Other
+English 52, 60, 82, 116, 129
+Réti 63, 102, 160

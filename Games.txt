@@ -1,0 +1,112 @@
+Page Number of Games
+
+AHUES-Alekhine 68
+
+ALEKHINE-Bogoljubow 135, Chajes 27, Kmoch 122, Rabar 130, K. Treybal 141, Winter 151, Yates 118
+
+ANDERSSEN—Dufresne 4
+
+BARCZA-Filip 108, Pachman 85
+
+BOGOLJUBOW—Mieses 127
+
+BOTVINNIK—Capablanca 16,Donner 69, Euwe 84, Lilienthal 102, Vidmar 109, Zagoriansky 160
+
+BRUHL—Philidor 3
+
+BYRNE R.-Kotov 149
+
+CAPABLANCA—Bogoljubow 159, Ilyin—Zhenevsky 24, Lilienthal 63, Ragozin 147
+
+COCHRANE—Staunton 6
+
+DOMNITZ—Pachman 41
+
+DUCKSTEIN—Unzicker 88
+
+ENGLISCH—Steinitz 92
+
+FILIP—Barda 82
+
+FISCHER—Bisguier 40, Spassky 78
+
+GLIGORIC—Larsen 66
+
+IVKOV—Wade 79
+
+KARPOV—Spassky 115
+
+KERES—Botvinnik 60
+
+KLIAVIN—Ragozin 95
+
+KMOCH-Alekhine 59, Prins 45
+
+KOCH—Michel 35
+
+KORCHNOI—Fischer 107
+
+LASKER—Tarrasch 158, Tartakower 161
+
+LICHTENHEIN—MORPHY 5
+
+LILIENTHAL—Bondarevsky 80
+
+LJUBOJEVIC—Planinc 43
+
+MACDONNELL- La Bourdonnais 4
+
+MARSHALL—Helper 44
+
+MEEK—Morphy 34
+
+NAJDORF - Minev 53, Pachman 54, Stahlberg 76
+
+NIMZOWITSCH—Capablanca 120
+
+OPOCENSKY-Nimzowitsch 29
+
+PACHMAN—Fabian 61, Fichtl 72, 145, Korchnoi 113, Runza. 105, Sefc 119, L. Steiner 112
+
+POLERIO—Domenico 2
+
+PORTISCH—Fischer 47
+
+RABINOVICH—Flohr 31
+
+RESHEVSKY-Capablanca 22, Waliston 155
+
+RETI—Gapablanca. 129
+
+ROSENTHAL—Steinitz 91
+
+RUBINSTEIN—Alekhine 136
+
+SCHLECHTER—Lasker 131
+
+SMYSLOV—Rudakovsky 82
+
+SOKOLSKY—Kotov 96
+
+SPASSKY—Fischer 20
+
+STAHLBERG—Szabados 116, Taimanov 111, Unzicker 71
+
+STEINER H.-Pachman 157
+
+SZABO—Bisguier 144, Smyslov 35
+
+TAIMANOV—Averbakh 65
+
+TARRASCH—Chigorin 125
+
+TEICHMANN-Players in Consultation 140
+
+TOLUSH—Botvinnik 146
+
+TRIFUNOVIG—Pachman 123
+
+UHLMANN—Osnos 52
+
+UNZICKER—Bobotsov 51
+
